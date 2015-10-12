@@ -1,0 +1,26 @@
+*{
+	/*outline: 1px solid red;*/
+	font-family: helvetica;
+}
+p.error{
+	color: red;
+}
+div.container{
+	width: 300px;
+	min-height: 600px;
+	margin: 0px auto;
+}
+	form{
+		width: 250px;
+		margin: 0px auto;
+	}
+	div.field{
+		width: 250px;
+	}
+	input{
+		width: 100px;
+	}
+	p.description{
+		width: 140px;
+		display: inline-block;
+	}
